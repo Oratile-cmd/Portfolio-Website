@@ -1,0 +1,22 @@
+nav{
+    font-size: large;
+    color: black;
+    color:black;
+    background-color: aqua;
+    display: flex;
+}
+h1 {
+    color: red;
+}
+img{
+    border: 2px yellowgreen solid;
+    border-radius: 50px; 
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%
+}
+img:hover{
+    cursor: pointer;
+}
